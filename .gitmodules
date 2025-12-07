@@ -7,4 +7,8 @@
 [submodule "lib/uf2"]
 	path = lib/uf2
 	url = https://github.com/microsoft/uf2.git
+[submodule "lib/Adafruit_nRFCrypto_meshtastic"]
+	path = lib/Adafruit_nRFCrypto_meshtastic
+	url = https://github.com/Meshlink-Team/Adafruit_nRFCrypto_meshtastic.git
+	branch = sha256
 
